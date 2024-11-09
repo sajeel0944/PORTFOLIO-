@@ -9,8 +9,8 @@ function Footer(){
                 <div className=" w-[74rem] h-32 mt-6 flex [@media(max-width:450px)]:w-[22rem] border- ">
 
                     <div className="border- w-80 ">
-                        <h1 className="font-bold text-xl text-white mt-10 ml-8 [@media(max-width:450px)]:mt-10 [@media(max-width:450px)]:text-[0.7rem] [@media(max-width:450px)]:ml-0 [@media(max-width:450px)]:leading-tight "> &nbsp; &nbsp; &nbsp; SAJEEL ULLAH KHAN</h1>
-                        <h1 className="font-extrabold text-sm text-white ml-14 mt-1 [@media(max-width:450px)]:font-semibold [@media(max-width:450px)]:ml-0 [@media(max-width:450px)]:mt-2">STUDENT OF GIAIC</h1>
+                        <h1 className="font-bold text-xl text-white mt-10 ml-8 [@media(max-width:450px)]:mt-10 [@media(max-width:450px)]:text-[0.7rem] [@media(max-width:450px)]:ml-0.5 [@media(max-width:450px)]:leading-tight "> &nbsp; &nbsp; &nbsp; SAJEEL ULLAH KHAN</h1>
+                        <h1 className="font-extrabold text-sm text-white ml-14 mt-1 [@media(max-width:450px)]:font-semibold [@media(max-width:450px)]:ml-0.5 [@media(max-width:450px)]:mt-2">STUDENT OF GIAIC</h1>
                     </div>
 
                     <div className="border- w-80 ">

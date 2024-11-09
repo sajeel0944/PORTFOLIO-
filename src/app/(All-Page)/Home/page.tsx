@@ -8,8 +8,8 @@ export default function Home() {
           <div className="border- ml-20  [@media(max-width:450px)]:ml-2">
 
               <div className="mt-8 ml-2 w-[32rem] border- [@media(max-width:450px)]:w-[20rem]">
-              <h1 className="text-white text-6xl ml-24 [@media(max-width:450px)]:mt-16 [@media(max-width:450px)]:ml-20 [@media(max-width:450px)]:text-4xl" id="change-home-page-sajell">  Hello I AM </h1>
-              <h1 className="text-white text-6xl [@media(max-width:450px)]:text-4xl [@media(max-width:450px)]:ml-6" id="change-home-page-sajell">Sajeel Ullah Khan</h1>
+              <h1 className="text-white text-6xl ml-24 [@media(max-width:450px)]:mt-16 [@media(max-width:450px)]:ml-12 [@media(max-width:450px)]:text-4xl" id="change-home-page-sajell">  Hello I AM </h1>
+              <h1 className="text-white text-6xl [@media(max-width:450px)]:text-4xl [@media(max-width:450px)]:ml-2" id="change-home-page-sajell">Sajeel Ullah Khan</h1>
               </div>
 
              <div className="border- w-[29rem] mt-14 ml-2 [@media(max-width:450px)]:w-[20rem] [@media(max-width:450px)]:mt-80">
